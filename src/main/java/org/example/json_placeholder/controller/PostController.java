@@ -1,4 +1,4 @@
-package org.example.json_placeholder;
+package org.example.json_placeholder.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.example.json_placeholder.model.dto.CommentDTO;
